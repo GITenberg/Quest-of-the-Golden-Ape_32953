@@ -1,0 +1,45 @@
+_repo: Quest-of-the-Golden-Ape_32953
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32953-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Marlowe, Stephen
+    aliases:
+    - Ridgway, Jason
+    - Chase, Adam
+    - Thames, C. H.
+    - Wilder, Stephen
+    - Lesser, Milton
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+  - agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    - Jorgensen, Ivar
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+title: Quest of the Golden Ape
+url: http://www.gutenberg.org/ebooks/32953
