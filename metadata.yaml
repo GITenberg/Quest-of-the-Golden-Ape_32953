@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25267
     wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32953#Quest-of-the-Golden-Ape
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-06-23'
 gutenberg_type: Text
